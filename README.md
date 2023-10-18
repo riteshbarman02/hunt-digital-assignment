@@ -3,6 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+Before you run the command install the dependencies using 
+### `npm install`
+
+and for icons you have to run 
+### `npm install react-icons`
 
 In the project directory, you can run:
 
